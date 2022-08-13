@@ -53,4 +53,4 @@ Son olarak aşağıdaki dizini İnsertion Sort e göre ilk 4 aşamasını yazal�
 *[2,3,4|8,7,6,9,5,15,6]
 ```
 
-[Patika.dev](www.patika.dev)
+[Patika.dev](https://www.patika.dev/tr)
