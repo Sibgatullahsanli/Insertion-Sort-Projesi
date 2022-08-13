@@ -27,5 +27,5 @@ Yukardaki dizinde yaptığımız tüm işlemlerin sayısın bulmak için n+(n-1)
 n.(n+1)/2 yapılınca 1 den "n"e kadar olan sayıların toplamı bulunur. buda bize n^2+n/2 sonucunu verir.
 Big-O yu bulmada en önemli değer etkeni de bu değeri domine eden en büyük fonksiyon alınır.Dolaysiyla bizim işlemde yani (n^2+n/2) fonksiyonel olarak en büyük değere sahip n^2 olduğundan Big-O (n^2)dir.
 
-DİZİNİMİZİN Big-O (n^2)
+### Big-O (n^2)
 
